@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 Date Picking:
 
-![DatePicking](date.PNG)
+![DatePicking](images/date.PNG)
 
 Time Picking:
 
-![TimePicking](time.PNG)
+![TimePicking](images/time.PNG)
